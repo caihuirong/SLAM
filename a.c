@@ -1,1 +1,1 @@
-__SSP_STRONG__
+__SSP_STRONG
