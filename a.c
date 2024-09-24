@@ -1,0 +1,1 @@
+__SSP_STRONG__
